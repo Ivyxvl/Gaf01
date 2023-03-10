@@ -151,7 +151,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="64dp"
         android:fontFamily="sans-serif-black"
-        android:text="WELCOME"
+        android:text="GAF Diary"
         android:textColor="#565656"
         android:textSize="38dp"
         app:layout_constraintStart_toStartOf="parent"
